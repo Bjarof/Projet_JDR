@@ -27,7 +27,7 @@ header {
 
 /* Logo */
 header .logo img {
-    height: 50px; /* Ajuste la taille du logo */
+    height: 100px; /* Ajuste la taille du logo */
 }
 
 /* Menu */
